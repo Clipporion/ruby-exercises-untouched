@@ -1,0 +1,23 @@
+--- !ruby/object:Game
+word:
+- s
+- m
+- i
+- l
+- i
+- e
+- s
+hints:
+- _
+- _
+- _
+- _
+- _
+- e
+- _
+wrongs: 7
+guessed:
+- e
+- r
+guess: save
+ended: false
